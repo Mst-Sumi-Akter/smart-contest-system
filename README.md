@@ -27,5 +27,5 @@ Backend API: https://contest-hub-server-gamma-drab.vercel.app
 -   **Frontend**: React, Vite, Tailwind CSS, Framer Motion, React Router, React Hook Form, TanStack Query (optional), Axios.
 -   **Backend**: Node.js, Express.js.
 -   **Database**: MongoDB.
--   **Authentication**: Firebase (Social), JWT (Session).
+-   **Authentication**: Firebase (Social), JWT.
 
