@@ -6,7 +6,7 @@ Frontend Live Link: https://contest-hub-client-gamma.vercel.app
 Backend API: https://contest-hub-server-gamma-drab.vercel.app
 
 
-## ✨ Features
+## ✨ Features :
 
 -   **User Roles**: Admin, Contest Creator, and Normal User with dedicated dashboards.
 -   **Contest Discovery**: Browse contests by category, popularity, and search queries.
