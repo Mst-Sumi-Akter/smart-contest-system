@@ -29,3 +29,4 @@ Backend API: https://contest-hub-server-gamma-drab.vercel.app
 -   **Database**: MongoDB.
 -   **Authentication**: Firebase (Social), JWT.
 
+----
