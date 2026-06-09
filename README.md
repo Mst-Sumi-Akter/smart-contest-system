@@ -1,4 +1,4 @@
-# smart contest system 🏆
+## smart contest system 🏆
 
 A modern, platform that allows users to create, discover, participate in, and manage creative contests.
 
