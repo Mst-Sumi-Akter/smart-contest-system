@@ -1,4 +1,4 @@
-## smart contest system 🏆
+# smart contest system 🏆
 
 A modern, platform that allows users to create, discover, participate in, and manage creative contests.
 
@@ -22,7 +22,7 @@ Backend API: https://contest-hub-server-gamma-drab.vercel.app
 -   **Notifications**: Toast notifications for all major actions.
 -   **Data Visualization**: Win percentage charts for user profiles.
 
-## 🛠️ Tech Stack :
+## 🛠️ Tech Stack 
 
 -   **Frontend**: React, Vite, Tailwind CSS, Framer Motion, React Router, React Hook Form, TanStack Query (optional), Axios.
 -   **Backend**: Node.js, Express.js.
