@@ -1,6 +1,6 @@
 # smart contest system 🏆
 
-A modern, platform that allows users to create, discover, participate in, and manage creative contests.
+A modern platform that allows users to create, discover, participate in, and manage creative contests.
 
 Frontend Live Link: https://contest-hub-client-gamma.vercel.app
 Backend API: https://contest-hub-server-gamma-drab.vercel.app
